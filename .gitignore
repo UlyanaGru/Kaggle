@@ -1,0 +1,9 @@
+# here is files or directories with nested files to be ignored
+
+#IDE
+.vscode/
+.idea/
+
+#data
+
+data/
